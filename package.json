@@ -1,0 +1,15 @@
+{
+  "name": "commonform-serve-permissions-leveldb",
+  "description": "serve Common Form permissions from a LevelDB store",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "bin": "bin",
+  "license": "Apache-2.0",
+  "repository": "commonform/commonform-serve-permissions-leveldb",
+  "dependencies": {
+    "bole": "^2.0.0",
+    "commonform-serve-permissions": "^1.0.0",
+    "leveldown": "^1.4.4",
+    "levelup": "^1.3.1"
+  }
+}
